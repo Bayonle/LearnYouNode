@@ -1,5 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 face_api/
+/face_api
 # compiled output
 /dist
 /tmp
